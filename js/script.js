@@ -256,7 +256,7 @@ firstCircle.addEventListener("click", function(event) {
             };
             if (count_7 == arr_src_1.length){
                 count_7 = 0;
-                fifthBlockImg.src = "/Users/michail/PycharmProjects/html_from_Figma/venv/imgs_from_figma/image 6.svg";
+                fifthBlockImg.src = "venv/imgs_from_figma/image 6.svg";
             };
         };
         for (let index = 0; index < arr_names_1.length; index++){
@@ -291,7 +291,7 @@ firstCircle.addEventListener("click", function(event) {
             };
             if (count_10 == arr_src_1_rev.length){
                 count_10 = 0;
-                fifthBlockImg.src = "/Users/michail/PycharmProjects/html_from_Figma/venv/imgs_from_figma/image 6.svg";
+                fifthBlockImg.src = "venv/imgs_from_figma/image 6.svg";
                 fifthBlockName.innerHTML = "Edward Newgate";
             };
         };
@@ -325,7 +325,7 @@ secondCircle.addEventListener("click", function(event) {
             };
             if (count_7 == arr_src_1.length){
                 count_7 = 0;
-                fifthBlockImg.src = "/Users/michail/PycharmProjects/html_from_Figma/venv/imgs_from_figma/image 6.svg";
+                fifthBlockImg.src = "venv/imgs_from_figma/image 6.svg";
             };
         };
         for (let index = 0; index < arr_names_1.length; index++){
@@ -360,7 +360,7 @@ secondCircle.addEventListener("click", function(event) {
             };
             if (count_10 == arr_src_1_rev.length){
                 count_10 = 0;
-                fifthBlockImg.src = "/Users/michail/PycharmProjects/html_from_Figma/venv/imgs_from_figma/image 6.svg";
+                fifthBlockImg.src = "venv/imgs_from_figma/image 6.svg";
             };
         };
     };
